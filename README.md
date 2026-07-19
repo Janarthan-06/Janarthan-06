@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=200&section=header&text=S.%20Janarthan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20ML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=200&section=header&text=S.%20Janarthan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
 
 <a href="https://www.linkedin.com/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -33,6 +33,11 @@ I care about writing code that solves real problems — CRMs that shrink manual 
 - 📫 Reach me at **sjanarthan187@gmail.com**
 
 <br/>
+
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00c9a7&height=30&section=header&animation=twinkling" width="45%"/>
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -70,6 +75,11 @@ I care about writing code that solves real problems — CRMs that shrink manual 
 </div>
 
 <br/>
+
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00c9a7&height=30&section=header&animation=twinkling" width="45%"/>
+</div>
 
 ## 💼 Internship Experience
 
@@ -110,6 +120,11 @@ Developed 2 workflow automation tools using React.js and Node.js, reducing repet
 
 <br/>
 
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00c9a7&height=30&section=header&animation=twinkling" width="45%"/>
+</div>
+
 ## 🚀 Featured Projects
 
 <table>
@@ -145,6 +160,11 @@ A full-stack travel platform generating personalized itineraries for 10+ destina
 
 <br/>
 
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00c9a7&height=30&section=header&animation=twinkling" width="45%"/>
+</div>
+
 ## 📜 Certifications
 
 <div align="center">
@@ -162,22 +182,49 @@ A full-stack travel platform generating personalized itineraries for 10+ destina
 
 <br/>
 
-## 📈 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Janarthan-06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Janarthan-06&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00c9a7&height=30&section=header&animation=twinkling" width="45%"/>
 </div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janarthan-06&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
-</div>
+## 🏆 Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Janarthan-06&theme=tokyonight&no-frame=true&column=4&margin-w=8" width="80%"/>
 </div>
 
 <br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00c9a7&height=40&section=header&animation=twinkling" width="60%"/>
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Janarthan-06/Janarthan-06/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake animation"/>
+</div>
+
+<sub>✨ This animated snake "eats" through my contribution graph. It updates automatically via a GitHub Action — see the setup note at the bottom of this file.</sub>
+
+<br/>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Janarthan-06&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Janarthan-06&style=for-the-badge&color=00c9a7&label=PROFILE+VIEWS"/>
+</div>
+
+<br/>
+
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00c9a7&height=30&section=header&animation=twinkling" width="45%"/>
+</div>
 
 ## 🤝 Let's Connect
 
@@ -197,3 +244,7 @@ I'm open to opportunities in **Full Stack Development**, **Data Analytics**, and
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,50:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
 
 </div>
+
+---
+
+<sub>**Setup note (one-time, for the snake animation only):** the contribution snake needs a small GitHub Action to generate itself — it won't appear until you add it. In your `Janarthan-06/Janarthan-06` repo, create `.github/workflows/snake.yml` with the [Platane/snk](https://github.com/Platane/snk) action, which builds the `output` branch this README already points to. Everything else (badges, typing text, trophies, activity graph, dividers) works immediately with no setup.</sub>
